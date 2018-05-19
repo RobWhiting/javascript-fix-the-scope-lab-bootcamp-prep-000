@@ -14,9 +14,7 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
 
 function add2(n) {
-  return n + two
-
-  const two = 2
+  return n += 2
 }
 
 
